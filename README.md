@@ -132,7 +132,7 @@ const saahil = {
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaahilManjunath&theme=nord-dark&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaahilManjunath&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&title_color=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
